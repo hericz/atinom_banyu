@@ -1,0 +1,13 @@
+*bin
+*elf
+*hex
+*o
+*map
+*c~
+*S~
+*h~
+*.d
+*.S
+*log
+*vcproj
+*sln

@@ -1,0 +1,23 @@
+Firmware PM_SABANG_2.3 
+Power Meter Module
+Hardware: PM-Sabang
+---------------------------------------
+Tanggal: 10 Agustus 2011
+
+---------------------------------------
+
+Deskripsi:
+Untuk keperluan Modul Power Meter.
+
+Diprogram untuk:
+- Schneider PM 800 (Power Meter)
+- MICOM M300 (Power Meter)
+- MICOM P127 (Relay Protection)
+
+Setting:
+- Baudrate 19200 (Pastikan Power meter disetting dengan Baudrate yang sama)
+
+Keterangan:
+- Sudah support KW negatif
+
+
